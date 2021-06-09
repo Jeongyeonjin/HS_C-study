@@ -14,9 +14,4 @@ class Solution:
 
 
 
-list= [3,4,5,6,7,8,9]
-target_number = 15
-main(list, target_number)
-
-
 
